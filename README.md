@@ -1,3 +1,12 @@
+### Tuts+ Course: Hands On: Ember
+#### Instructor: Rem Zolotykh
+
+In this course we’ll build an application from scratch and deploy the final result to Heroku. Along the way, we’ll cover a number of topics, including nested routes, token authentication and more!
+
+Source files for the Tuts+ course: [Hands On: Ember](https://courses.tutsplus.com/courses/hands-on-ember)
+
+#### Application Information
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
